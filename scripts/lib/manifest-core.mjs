@@ -6,6 +6,8 @@ export const SUPPORTED_EXTENSIONS = new Set(['.png', '.jpg', '.jpeg', '.webp', '
 export const THUMBNAIL_WIDTH = 720
 export const THUMBNAIL_QUALITY = 82
 
+const ASSET_BASE = (process.env.SCHEMATIC_BASE_URL || process.env.VITE_SCHEMATIC_BASE_URL || '').replace(/\/+$/, '')
+
 const CATEGORY_INDEX = new Map(CATEGORIES.map((category, index) => [category, index]))
 const collator = new Intl.Collator('en', { numeric: true, sensitivity: 'base' })
 
@@ -103,7 +105,9 @@ export async function discoverImages(publicDir) {
         file: entry.name,
         extension,
         displayName: deriveDisplayName(entry.name),
-        url: `/schematics/${category}/${encodeURIComponent(entry.name)}`,
+        url: ASSET_BASE
+          ? `${ASSET_BASE}/schematics/${category}/${encodeURIComponent(entry.name)}`
+          : `/schematics/${category}/${encodeURIComponent(entry.name)}`,
         thumbnailUrl: null,
         width: null,
         height: null,
@@ -169,7 +173,9 @@ export async function generateThumbnails({ publicDir, images, logger = console }
       } else {
         reused += 1
       }
-      image.thumbnailUrl = `/generated/${relative.split('/').map(encodeURIComponent).join('/')}`
+      image.thumbnailUrl = ASSET_BASE
+        ? `${ASSET_BASE}/generated/${relative.split('/').map(encodeURIComponent).join('/')}`
+        : `/generated/${relative.split('/').map(encodeURIComponent).join('/')}`
     } catch (error) {
       failed += 1
       image.thumbnailUrl = null
