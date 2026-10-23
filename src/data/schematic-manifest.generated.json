@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-23T16:51:54.246Z",
+  "generatedAt": "2026-10-23T17:00:59.729Z",
   "counts": {
-    "total": 95,
+    "total": 94,
     "traps": 25,
-    "melee": 12,
+    "melee": 11,
     "guns": 58
   },
   "images": [
@@ -393,24 +393,13 @@
       "height": null
     },
     {
-      "id": "melee/Screenshot_20261023_143041_144692.png",
+      "id": "melee/Screenshot_20261023_175816_369428.png",
       "category": "melee",
-      "file": "Screenshot_20261023_143041_144692.png",
+      "file": "Screenshot_20261023_175816_369428.png",
       "extension": ".png",
-      "displayName": "Screenshot 2026-10-23 14:30:41",
-      "url": "https://pub-17ddd707045a4fe49c27873e18fd6655.r2.dev/schematics/melee/Screenshot_20261023_143041_144692.png",
-      "thumbnailUrl": "https://pub-17ddd707045a4fe49c27873e18fd6655.r2.dev/generated/schematic-thumbnails/melee/Screenshot_20261023_143041_144692.png.webp",
-      "width": null,
-      "height": null
-    },
-    {
-      "id": "melee/Screenshot_20261023_175044_342356.png",
-      "category": "melee",
-      "file": "Screenshot_20261023_175044_342356.png",
-      "extension": ".png",
-      "displayName": "Screenshot 2026-10-23 17:50:44",
-      "url": "https://pub-17ddd707045a4fe49c27873e18fd6655.r2.dev/schematics/melee/Screenshot_20261023_175044_342356.png",
-      "thumbnailUrl": "https://pub-17ddd707045a4fe49c27873e18fd6655.r2.dev/generated/schematic-thumbnails/melee/Screenshot_20261023_175044_342356.png.webp",
+      "displayName": "Screenshot 2026-10-23 17:58:16",
+      "url": "https://pub-17ddd707045a4fe49c27873e18fd6655.r2.dev/schematics/melee/Screenshot_20261023_175816_369428.png",
+      "thumbnailUrl": "https://pub-17ddd707045a4fe49c27873e18fd6655.r2.dev/generated/schematic-thumbnails/melee/Screenshot_20261023_175816_369428.png.webp",
       "width": null,
       "height": null
     },
