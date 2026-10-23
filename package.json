@@ -6,7 +6,7 @@
   "description": "A private, offline-first armory for browsing a Fortnite Save the World schematic collection.",
   "scripts": {
     "dev": "node scripts/generate-schematic-manifest.mjs && vite",
-    "build": "node scripts/generate-schematic-manifest.mjs && tsc -b && vite build",
+    "build": "tsc -b && vite build",
     "preview": "vite preview",
     "lint": "eslint .",
     "typecheck": "tsc -b --pretty false",
