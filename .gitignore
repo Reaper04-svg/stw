@@ -7,3 +7,7 @@ coverage/
 Thumbs.db
 .vscode/*
 !.vscode/extensions.json
+
+public/schematics/
+public/generated/
+
