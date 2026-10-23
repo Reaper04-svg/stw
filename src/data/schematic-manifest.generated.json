@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-23T21:25:05.070Z",
+  "generatedAt": "2026-10-23T22:01:30.008Z",
   "counts": {
-    "total": 95,
+    "total": 96,
     "traps": 25,
     "melee": 11,
-    "guns": 59
+    "guns": 60
   },
   "images": [
     {
@@ -1049,6 +1049,17 @@
       "displayName": "Screenshot 2026-10-23 22:24:03",
       "url": "https://pub-17ddd707045a4fe49c27873e18fd6655.r2.dev/schematics/guns/Screenshot_20261023_222403_556539.png",
       "thumbnailUrl": "https://pub-17ddd707045a4fe49c27873e18fd6655.r2.dev/generated/schematic-thumbnails/guns/Screenshot_20261023_222403_556539.png.webp",
+      "width": null,
+      "height": null
+    },
+    {
+      "id": "guns/Screenshot_20261023_230056_060214.png",
+      "category": "guns",
+      "file": "Screenshot_20261023_230056_060214.png",
+      "extension": ".png",
+      "displayName": "Screenshot 2026-10-23 23:00:56",
+      "url": "https://pub-17ddd707045a4fe49c27873e18fd6655.r2.dev/schematics/guns/Screenshot_20261023_230056_060214.png",
+      "thumbnailUrl": "https://pub-17ddd707045a4fe49c27873e18fd6655.r2.dev/generated/schematic-thumbnails/guns/Screenshot_20261023_230056_060214.png.webp",
       "width": null,
       "height": null
     }
