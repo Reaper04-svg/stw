@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-27T18:52:44.310Z",
+  "generatedAt": "2026-10-28T14:05:29.826Z",
   "counts": {
-    "total": 110,
+    "total": 113,
     "traps": 26,
     "melee": 12,
-    "guns": 72
+    "guns": 75
   },
   "images": [
     {
@@ -1214,6 +1214,39 @@
       "displayName": "Screenshot 2026-10-27 19:52:18",
       "url": "https://pub-17ddd707045a4fe49c27873e18fd6655.r2.dev/schematics/guns/Screenshot_20261027_195218_374693.png",
       "thumbnailUrl": "https://pub-17ddd707045a4fe49c27873e18fd6655.r2.dev/generated/schematic-thumbnails/guns/Screenshot_20261027_195218_374693.png.webp",
+      "width": null,
+      "height": null
+    },
+    {
+      "id": "guns/Screenshot_20261028_150347_754016.png",
+      "category": "guns",
+      "file": "Screenshot_20261028_150347_754016.png",
+      "extension": ".png",
+      "displayName": "Screenshot 2026-10-28 15:03:47",
+      "url": "https://pub-17ddd707045a4fe49c27873e18fd6655.r2.dev/schematics/guns/Screenshot_20261028_150347_754016.png",
+      "thumbnailUrl": "https://pub-17ddd707045a4fe49c27873e18fd6655.r2.dev/generated/schematic-thumbnails/guns/Screenshot_20261028_150347_754016.png.webp",
+      "width": null,
+      "height": null
+    },
+    {
+      "id": "guns/Screenshot_20261028_150349_289950.png",
+      "category": "guns",
+      "file": "Screenshot_20261028_150349_289950.png",
+      "extension": ".png",
+      "displayName": "Screenshot 2026-10-28 15:03:49",
+      "url": "https://pub-17ddd707045a4fe49c27873e18fd6655.r2.dev/schematics/guns/Screenshot_20261028_150349_289950.png",
+      "thumbnailUrl": "https://pub-17ddd707045a4fe49c27873e18fd6655.r2.dev/generated/schematic-thumbnails/guns/Screenshot_20261028_150349_289950.png.webp",
+      "width": null,
+      "height": null
+    },
+    {
+      "id": "guns/Screenshot_20261028_150359_497866.png",
+      "category": "guns",
+      "file": "Screenshot_20261028_150359_497866.png",
+      "extension": ".png",
+      "displayName": "Screenshot 2026-10-28 15:03:59",
+      "url": "https://pub-17ddd707045a4fe49c27873e18fd6655.r2.dev/schematics/guns/Screenshot_20261028_150359_497866.png",
+      "thumbnailUrl": "https://pub-17ddd707045a4fe49c27873e18fd6655.r2.dev/generated/schematic-thumbnails/guns/Screenshot_20261028_150359_497866.png.webp",
       "width": null,
       "height": null
     }
