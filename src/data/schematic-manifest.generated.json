@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-29T19:45:50.902Z",
+  "generatedAt": "2026-10-29T19:47:46.628Z",
   "counts": {
-    "total": 115,
+    "total": 116,
     "traps": 26,
-    "melee": 12,
+    "melee": 13,
     "guns": 77
   },
   "images": [
@@ -422,6 +422,17 @@
       "displayName": "Screenshot 2026-10-24 23:16:11",
       "url": "https://pub-17ddd707045a4fe49c27873e18fd6655.r2.dev/schematics/melee/Screenshot_20261024_231611_879441.png",
       "thumbnailUrl": "https://pub-17ddd707045a4fe49c27873e18fd6655.r2.dev/generated/schematic-thumbnails/melee/Screenshot_20261024_231611_879441.png.webp",
+      "width": null,
+      "height": null
+    },
+    {
+      "id": "melee/Screenshot_20261029_204712_785430.png",
+      "category": "melee",
+      "file": "Screenshot_20261029_204712_785430.png",
+      "extension": ".png",
+      "displayName": "Screenshot 2026-10-29 20:47:12",
+      "url": "https://pub-17ddd707045a4fe49c27873e18fd6655.r2.dev/schematics/melee/Screenshot_20261029_204712_785430.png",
+      "thumbnailUrl": "https://pub-17ddd707045a4fe49c27873e18fd6655.r2.dev/generated/schematic-thumbnails/melee/Screenshot_20261029_204712_785430.png.webp",
       "width": null,
       "height": null
     },
